@@ -1,1 +1,3 @@
 # Apuntes de Programación
+
+> Good programmers...
